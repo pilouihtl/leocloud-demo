@@ -1,7 +1,7 @@
 name: CD
 
 on:
-  worklfow_dispatch:
+  workflow_dispatch:
     inputs:
       tags:
         description: 'Tags'
